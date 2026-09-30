@@ -1,6 +1,6 @@
 
 
-# This is a testy file
+# This is a test file
 
 lets write a para of text, and again
 
