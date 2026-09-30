@@ -1,4 +1,22 @@
-## Hi there 👋
+
+
+# This is a test file
+
+lets write a para of text, and again
+
+this is the second one
+
+1. now make a list, ordered
+    - now an orderd list
+    - and anothr row
+2. carry on with list
+
+
+[and finally a hyperlink] (https://www.example.com)
+
+## here is a formula
+$\frac{4}{3}\pi r^3$
+
 
 <!--
 **raj-amin-26/raj-amin-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
