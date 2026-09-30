@@ -12,7 +12,7 @@ this is the second one
 2. carry on with list
 
 
-[and finally a hyperlink] (https://www.example.com)
+and finally a [hyperlink](https://www.example.com)
 
 ## here is a formula
 $\frac{4}{3}\pi r^3$
