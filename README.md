@@ -7,8 +7,8 @@ lets write a para of text, and again
 this is the second one
 
 1. now make a list, ordered
-    - now an orderd list
-    - and anothr row
+    - now an unorderd list
+    - and another row
 2. carry on with list
 
 
